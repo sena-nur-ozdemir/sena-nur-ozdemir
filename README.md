@@ -26,7 +26,7 @@ Bu altyapıyı kullanarak, daha güçlü ve sürdürülebilir sistemler gelişti
 - Randevu ve stok yönetimi
 - MVC mimarisi kullanılarak geliştirildi
 
-**Dinamik CV Projesi (ASP.NET MVC)**  
+**Dinamik CV Projesi (ASP.NET MVC5)**  
 - CRUD işlemleri
 - Yönetilebilir ve dinamik içerik yapısı
 
@@ -35,7 +35,7 @@ Bu altyapıyı kullanarak, daha güçlü ve sürdürülebilir sistemler gelişti
 ---
 
 ### 💻 Kullandığım Teknolojiler
-- **Backend:** C#, .NET, ASP.NET MVC, PHP
+- **Backend:** C#, .NET, ASP.NET MVC5, PHP
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Veritabanı:** MS SQL Server, MySQL
 - **Araçlar:** Git, GitHub, Visual Studio, Visual Studio Code
